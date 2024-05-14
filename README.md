@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Darron Tacio Moraes from India<br><br>- 🔭 I’m working as Product Delivery Engineer at Numino Labs<br>- 📚 I'm currently learning DevOps, .js, Amazon Web Services<br>- ⚡ In my free time I read books, write code and update myself about latest tech</p>
+<p align="left">I'm Darron Tacio Moraes from Goa, India<br><br>- 🔭 Working as Product Delivery Engineer at Numino Labs Pvt. Ltd.<br>- 📚 I'm currently learning DevOps, javascript, AWS Cloud services<br>- ⚡ In my free time I read books, write code and update myself about latest tech</p>
 
 ###
 
